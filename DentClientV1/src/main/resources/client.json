@@ -1,11 +1,11 @@
 {
 
   "name": "Dent Client",
-  "website": "https://gitlab.com/EMC-Framework/EDK",
-  "author": "Whop42, Outverted, and a base by herooyyy",
+  "website": "https://github.com/Whop42",
+  "author": "Whop42",
   "minVersion": "13.9.0",
   "version": 2,
-  "main": "me.herooyyy.mod.Main.Main",
+  "main": "me.whop.mod.Main.Main",
   "updateLinkOverride": false
 
 }
