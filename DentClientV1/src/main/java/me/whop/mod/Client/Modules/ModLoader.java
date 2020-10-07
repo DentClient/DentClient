@@ -4,7 +4,7 @@ import me.deftware.client.framework.event.Event;
 import me.deftware.client.framework.event.events.EventKeyAction;
 import me.deftware.client.framework.event.events.EventUpdate;
 import me.whop.mod.Client.Client;
-import me.whop.mod.Client.Modules.Mods.Flight;
+import me.whop.mod.Client.Modules.Mods.*;
 
 import java.util.HashMap;
 

@@ -22,7 +22,7 @@ public class RenderManager {
 
                 IFontRenderer.drawStringWithShadow(m.getName(),
                         IGuiScreen.getScaledWidth() - IFontRenderer.getStringWidth(m.getName()) - 2,
-                        2 + offset, Color.RED.getRGB());
+                        2 + offset, Color.WHITE.getRGB());
                 i += 1;
             }
         }
