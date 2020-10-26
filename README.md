@@ -8,7 +8,8 @@ This project will probably be done at some point
 ### To Do:
 - [ ] Figure out commands
 - [ ] Click GUI (Maybe)
-- [ ] Add settings for modules (lol might need bigbrain help i'm crap at java)
+- [ ] Add settings for modules
+- [ ] File Saves for modules!
 - [ ] Hacks:
 	- [ ] KillAura
 	- [ ] Spammer
