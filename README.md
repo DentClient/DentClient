@@ -5,9 +5,10 @@ A Minecraft hacked client that will run on Fabric 1.16. This will be the first c
 This project will probably be done at some point.
 
 ### To Do:
+- [ ] Make this a fabric mod
 - [ ] Figure out commands
 - [ ] Click GUI (Maybe)
-- [ ] Add settings for modules
+- [X] Add settings for modules
 - [ ] File Saves for modules!
 - [ ] Hacks:
 	- [ ] KillAura
