@@ -1,9 +1,8 @@
 # Dent Client
-A Minecraft hacked client running on
-the EMC framework. Currently 0% customizable and not functioning. If someone could build this it would be nice. (I don't have cmd access/admin on this computer)
+A Minecraft hacked client that will run on Fabric 1.16. This will be the first client in 1.16 to have a ghost mode and an external GUI.
 
 ### I'm Not Done
-This project will probably be done at some point
+This project will probably be done at some point.
 
 ### To Do:
 - [ ] Figure out commands
