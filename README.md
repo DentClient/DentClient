@@ -1,9 +1,12 @@
 # Dent Client
 A Minecraft hacked client that will run on Fabric 1.16. This will be the first client in 1.16 to have a ghost mode and an external GUI.
 
-### I'm Not Done
-This project will probably be done at some point.
-
+### Looking for Contributors
+Must be:
+	- Proficient at Java/Dedicated to learning Java
+	- Experienced whenj it comes to Hacked Clients
+	- Not @crystalinqq
+Contact me for more info.
 ### To Do:
 - [ ] Make this a fabric mod
 - [ ] Figure out commands
